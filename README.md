@@ -1,4 +1,4 @@
-# TensorFlow v1.5.0 binary package for Intel / AMD
+# TensorFlow v1.15.0 binary package for Intel / AMD
 
 ```
 For Intel
